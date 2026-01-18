@@ -1,4 +1,4 @@
 # Probing-Language-Identity
 
-This is the code and dataset for the paper "A complex network approach to analyse pre-trained language models for ancient Chinese"
+Official code and dataset release of the work, (Probing language identity encoded in pre-trained multilingual models:a typological view)[https://peerj.com/articles/cs-899/].
 
